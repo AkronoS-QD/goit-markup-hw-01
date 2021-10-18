@@ -1,0 +1,22 @@
+body {
+  background-color: #e5e5e5;
+}
+
+/* main content section 1*/
+
+.main-body {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1600;
+  height: 80;
+  background: #ffffff;
+  margin: 40 auto;
+}
+
+.main-contanier {
+  background: #2f303a;
+}
+
+/* main content section 2*/
+
+/* main content section 3*/
