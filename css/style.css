@@ -1,17 +1,21 @@
 body {
   font-family: Roboto;
-  background-color: #c5a0a0;
+  background-color: #ffffff;
 }
 
-/* main content section 1*/
+/* header section*/
 
 .webstudio-button {
   font-size: 26px;
   line-height: auto;
 }
-.button-1 {
+.nav-1 {
   font-size: 14px;
   line-height: auto;
+  color: #2196f3;
+}
+
+.mail-section {
   color: #2196f3;
 }
 
@@ -24,18 +28,18 @@ body {
   margin: 40 auto;
 }
 
+/* main section */
+
 .main-contanier {
   width: 1600;
   height: 600;
   top: 80;
-  background: #2f303a;
+  background: #808296;
 }
 
-/* main content section 2*/
-
-/* main content section 3*/
+/* footer info*/
 .info {
   width: 1600;
   height: 252;
-  background: #2f303a;
+  background: #808296;
 }
